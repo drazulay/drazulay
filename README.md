@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @drazulay
 - 👀 I’m interested in python, php, c, js, nodejs, web components, plants, software defined radio, machine learning, digital signal processing, technology, space & nature.
-- 📫 How to reach me: e-mail me at [daniel@danielazulay.eu](https://googlethatforyou.com?q=daniel%20azulay).
+- 📫 How to reach me: e-mail me at *[daniel at danielazulay dot eu](https://googlethatforyou.com?q=daniel%20azulay)*.
 
 <!---
 drazulay/drazulay is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
