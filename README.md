@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @drazulay
-- 👀 I’m interested in automation, introspection, Magento2 development, Web components (thinking about building a simple Magento2 pwa based on lit-element), plants, software defined radio, technology, space & nature.
-- 🌱 I’m currently learning how to be a better Magento2 developer and how to better care for my plants.
-- 💞️ I’m looking to collaborate on a Cardano project idea I have that could have a big impact for those less well off in the world, but I lack the Haskell skills.
+- 👀 I’m interested in python, php, c, js, nodejs, web components, plants, software defined radio, machine learning, digital signal processing, technology, space & nature.
 - 📫 How to reach me: e-mail me at daniel.reubin.azulay@pm.me
 
 <!---
